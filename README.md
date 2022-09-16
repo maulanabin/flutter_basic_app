@@ -1,7 +1,7 @@
 # 02-Basic-Flutter-App
 
 NIM   : 2041720132 <br>
-Nama  : Maulana Bintang Irfansyah
+Nama  : Maulana Bintang Irfansyah <br>
 Kelas : TI-3H <br>
 Prodi : D4 Teknik Informatika <br>
 
